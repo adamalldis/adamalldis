@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Adam and I’m @adamalldis ;
-- 👀 I’m interested in Ontario, Canada about an hour away from Toronto ;
-- 💞️ I have been a graphic designer for 22 years but am looking for a career change to something more digital centric and code-focused ;
-- 🌱 I’m currently learning JavaScript and hope to start a career in front end web development ;
+- 👀 I’m live in Ontario, Canada about an hour away from Toronto ;
+- 💞️ I have been a graphic designer for 22 years but am looking for a career change to something more digital-centric and code-focused ;
+- 🌱 I’m currently learning JavaScript and hope to start a career in front end web development soon ;
 - 📫 I can be reached at alldis@me.com and hold the Twitter account @alldis ;
